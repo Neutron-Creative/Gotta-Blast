@@ -582,13 +582,15 @@ iframe {
 	}
 
 .site-header {
-	border-bottom: 1px solid #dfe2e5;
+	border-bottom: 0;
+	height: 90px;
 	position: relative;
 	z-index: 1;
 	}
 
 .site-header .wrap {
 	display: flex;
+	height: 100%;
 
 	flex-wrap: wrap;
 	align-items: center;
@@ -1150,6 +1152,13 @@ section {
 
 .front-page-2 {
 	border-bottom: 1px solid #dfe2e5;
+	}
+
+section[data-id="f9d9ae1"] {
+	background-image: url(https://development.neutroncreative.com/wp-content/uploads/2019/01/Rocket-and-Trail@4x.png), url(https://development.neutroncreative.com/wp-content/uploads/2019/01/Smoke-Background@4x.png);
+	background-position: 196px center, left bottom;
+	background-repeat: no-repeat, repeat;
+	background-size: 196px 253px, 1433px 18px;
 	}
 
 .screen-reader-shortcut,

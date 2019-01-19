@@ -9,14 +9,15 @@
 .site-header {
 	position: relative;
 	z-index: 1;
-	border-bottom: $base--border;
+	border-bottom: 0;
+	height: 90px;
 
 	.wrap {
 		display: flex;
 		flex-wrap: wrap;
 		align-items: center;
 		justify-content: space-between;
-
+		height: 100%;
 		@include mq(m) {
 			flex-wrap: nowrap;
 		}
