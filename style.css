@@ -760,8 +760,11 @@ body {
 	}
 
 .site-footer {
-	border-top: 1px solid #dfe2e5;
+	background: #222;
+	border-top: 0;
+	color: #8198ae !important;
 	margin-top: auto;
+	padding: 40px 0;
 	}
 
 .footer-widgets {
