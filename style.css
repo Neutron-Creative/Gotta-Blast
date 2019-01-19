@@ -1976,6 +1976,8 @@ section[data-id="f9d9ae1"] img[title="Logos@4x"] {
 		}
 	.site-header ul {
 		background-color: #fcfcfc !important;
+		border-top: none !important;
+		margin-left: 0 !important;
 		}
 	.site-header ul li {
 		height: 50px !important;
@@ -1989,8 +1991,7 @@ section[data-id="f9d9ae1"] img[title="Logos@4x"] {
 		}
 	.site-header ul li:last-of-type {
 		height: 70px !important;
-		margin: 0 !important;
-		margin-left: 0 !important;
+		margin: 0 auto !important;
 		}
 	.site-header ul li:last-of-type a {
 		width: 100% !important;

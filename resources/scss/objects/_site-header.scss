@@ -69,6 +69,8 @@
 		box-shadow: 0 2px 5px rgba(32,32,32,.12) !important;
 		ul {
 			background-color: #FCFCFC !important;
+			border-top: none !important;
+			margin-left: 0 !important;
 			li {
 				margin: 0 !important;
 				width: 100% !important;
@@ -80,8 +82,7 @@
 				}
 			}
 			li:last-of-type {
-				margin: 0 !important;
-				margin-left: 0 !important;
+				margin: 0 auto !important;
 				height: 70px !important;
 				a {
 					width: 100% !important;
