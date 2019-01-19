@@ -777,6 +777,10 @@ body {
 	margin-bottom: 0;
 	}
 
+.post-edit-link {
+	display: none !important;
+	}
+
 .wrap {
 	margin-left: auto;
 	margin-right: auto;
