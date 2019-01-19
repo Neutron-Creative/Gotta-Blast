@@ -319,6 +319,7 @@
 	margin: 0 0 20px 0 !important;
 	min-width: 100px !important;
 	padding: 0 20px !important;
+	text-align: center !important;
 	text-decoration: none !important;
 	text-transform: capitalize !important;
 	transition: 0.25s ease-in-out;
@@ -360,6 +361,7 @@ input[type="submit"].happyforms-submit {
 	margin: 0 0 20px 0 !important;
 	min-width: 100px !important;
 	padding: 0 20px !important;
+	text-align: center !important;
 	text-decoration: none !important;
 	text-transform: capitalize !important;
 	transition: 0.25s ease-in-out;
@@ -416,6 +418,7 @@ input[type="submit"].happyforms-submit:hover {
 	margin: 0 0 20px 0 !important;
 	min-width: 100px !important;
 	padding: 0 20px !important;
+	text-align: center !important;
 	text-decoration: none !important;
 	text-transform: capitalize !important;
 	transition: 0.25s ease-in-out;

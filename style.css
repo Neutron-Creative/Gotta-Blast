@@ -413,6 +413,7 @@ dt {
 	margin: 0 0 20px 0 !important;
 	min-width: 100px !important;
 	padding: 0 20px !important;
+	text-align: center !important;
 	text-decoration: none !important;
 	text-transform: capitalize !important;
 	transition: 0.25s ease-in-out;
@@ -454,6 +455,7 @@ input[type="submit"].happyforms-submit {
 	margin: 0 0 20px 0 !important;
 	min-width: 100px !important;
 	padding: 0 20px !important;
+	text-align: center !important;
 	text-decoration: none !important;
 	text-transform: capitalize !important;
 	transition: 0.25s ease-in-out;
@@ -744,6 +746,7 @@ body {
 	margin-bottom: 0 !important;
 	min-width: 100px !important;
 	padding: 0 20px !important;
+	text-align: center !important;
 	text-decoration: none !important;
 	text-transform: capitalize !important;
 	transition: 0.25s ease-in-out;
@@ -1958,6 +1961,26 @@ section[data-id="f9d9ae1"] img[title="Logos@4x"] {
 	.elementor-column-wrap.elementor-element-populated {
 		margin: 0 auto !important;
 		max-width: 90% !important;
+		}
+	.site-header .wrap ul {
+		background-color: #fcfcfc !important;
+		}
+	.site-header .wrap ul li {
+		height: 50px !important;
+		margin: 0 !important;
+		max-width: 90% !important;
+		width: 100% !important;
+		}
+	.site-header .wrap ul li a {
+		text-align: center;
+		}
+	.site-header .wrap ul li:last-of-type {
+		height: 70px !important;
+		margin: 0 !important;
+		margin-left: auto !important;
+		}
+	.site-header .wrap ul li:last-of-type a {
+		width: 100% !important;
 		}
 	}
 

@@ -28,6 +28,28 @@
 		nav {
 			width: 100%;
 		}
+		@media(max-width: 767px) {
+			ul {
+				background-color: #FCFCFC !important;
+				li {
+					margin: 0 !important;
+					width: 100% !important;
+					max-width: 90% !important;
+					height: 50px !important;
+					a {
+						text-align: center;
+					}
+				}
+				li:last-of-type {
+					margin: 0 !important;
+					margin-left: auto !important;
+					height: 70px !important;
+					a {
+						width: 100% !important;
+					}
+				}
+			}
+		}
 		ul {
 			background: none;
 			margin-left: 20px;
