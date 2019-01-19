@@ -1962,25 +1962,33 @@ section[data-id="f9d9ae1"] img[title="Logos@4x"] {
 		margin: 0 auto !important;
 		max-width: 90% !important;
 		}
-	.site-header .wrap ul {
+	.site-header {
+		background: #fcfcfc !important;
+		box-shadow: 0 2px 5px rgba(32, 32, 32, 0.12) !important;
+		left: 0 !important;
+		position: fixed !important;
+		top: 0 !important;
+		z-index: 999999 !important;
+		}
+	.site-header ul {
 		background-color: #fcfcfc !important;
 		}
-	.site-header .wrap ul li {
+	.site-header ul li {
 		height: 50px !important;
 		margin: 0 !important;
 		max-width: 90% !important;
 		width: 100% !important;
 		}
-	.site-header .wrap ul li a {
+	.site-header ul li a {
 		margin: 0 auto !important;
 		text-align: center !important;
 		}
-	.site-header .wrap ul li:last-of-type {
+	.site-header ul li:last-of-type {
 		height: 70px !important;
 		margin: 0 !important;
 		margin-left: 0 !important;
 		}
-	.site-header .wrap ul li:last-of-type a {
+	.site-header ul li:last-of-type a {
 		width: 100% !important;
 		}
 	}
