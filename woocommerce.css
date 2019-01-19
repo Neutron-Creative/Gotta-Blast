@@ -304,32 +304,63 @@
 	}
 
 button, [type="button"], [type="reset"], [type="submit"], .button, .button.menu-item a {
-	background-color: #141618;
-	border: 0;
-	border-radius: 0;
+	background-color: #ff4081;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24);
 	color: #fff;
-	cursor: pointer;
 	display: inline-block;
-	font-size: 1.42222rem;
-	font-weight: 600;
-	line-height: 1;
-	padding: 1.8rem 3.6rem;
+	font-family: navigo, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: 500;
+	height: 45px;
+	line-height: 45px;
+	line-height: 4.5rem;
+	margin: 0 0 20px 0;
+	padding: 20px 0;
 	text-decoration: none;
-	white-space: normal;
+	text-transform: capitalize;
 	width: auto;
 	}
 
-button:hover, button:focus, button:active, [type="button"]:hover, [type="button"]:focus, [type="button"]:active, [type="reset"]:hover, [type="reset"]:focus, [type="reset"]:active, [type="submit"]:hover, [type="submit"]:focus, [type="submit"]:active, .button:hover, .button:focus, .button:active, .button.menu-item a:hover, .button.menu-item a:focus, .button.menu-item a:active {
-	background-color: #1e90ff;
+button span, [type="button"] span, [type="reset"] span, [type="submit"] span, .button span, .button.menu-item a span {
 	color: #fff;
-	outline: none;
-	text-decoration: none;
+	font-family: navigo, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: 500;
+	line-height: 45px;
+	line-height: 4.5rem;
+	text-transform: capitalize;
 	}
 
-button:disabled, button:disabled:hover, button:disabled:focus, [type="button"]:disabled, [type="button"]:disabled:hover, [type="button"]:disabled:focus, [type="reset"]:disabled, [type="reset"]:disabled:hover, [type="reset"]:disabled:focus, [type="submit"]:disabled, [type="submit"]:disabled:hover, [type="submit"]:disabled:focus, .button:disabled, .button:disabled:hover, .button:disabled:focus, .button.menu-item a:disabled, .button.menu-item a:disabled:hover, .button.menu-item a:disabled:focus {
-	background-color: #8c969f;
-	cursor: not-allowed;
-	opacity: 0.5;
+.elementor-button {
+	background-color: #ff4081;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24);
+	color: #fff;
+	display: inline-block;
+	font-family: navigo, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: 500;
+	height: 45px;
+	line-height: 45px;
+	line-height: 4.5rem;
+	margin: 0 0 20px 0;
+	padding: 20px 0;
+	text-decoration: none;
+	text-transform: capitalize;
+	width: auto;
+	}
+
+.elementor-button span {
+	color: #fff;
+	font-family: navigo, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: 500;
+	line-height: 45px;
+	line-height: 4.5rem;
+	text-transform: capitalize;
 	}
 
 .woocommerce a.button,
@@ -341,80 +372,41 @@ button:disabled, button:disabled:hover, button:disabled:focus, [type="button"]:d
 .woocommerce input.button[type="submit"],
 .woocommerce #respond input#submit,
 .woocommerce #respond input#submit.alt {
-	background-color: #141618;
-	border: 0;
-	border-radius: 0;
+	background-color: #ff4081;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24);
 	color: #fff;
-	cursor: pointer;
 	display: inline-block;
-	font-size: 1.42222rem;
-	font-weight: 600;
-	line-height: 1;
-	padding: 1.8rem 3.6rem;
+	font-family: navigo, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: 500;
+	height: 45px;
+	line-height: 45px;
+	line-height: 4.5rem;
+	margin: 0 0 20px 0;
+	padding: 20px 0;
 	text-decoration: none;
-	white-space: normal;
+	text-transform: capitalize;
 	width: auto;
 	}
 
-.woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce a.button:active,
-.woocommerce a.button.alt:hover,
-.woocommerce a.button.alt:focus,
-.woocommerce a.button.alt:active,
-.woocommerce button.button:hover,
-.woocommerce button.button:focus,
-.woocommerce button.button:active,
-.woocommerce button.button.alt:hover,
-.woocommerce button.button.alt:focus,
-.woocommerce button.button.alt:active,
-.woocommerce input.button:hover,
-.woocommerce input.button:focus,
-.woocommerce input.button:active,
-.woocommerce input.button.alt:hover,
-.woocommerce input.button.alt:focus,
-.woocommerce input.button.alt:active,
-.woocommerce input.button[type="submit"]:hover,
-.woocommerce input.button[type="submit"]:focus,
-.woocommerce input.button[type="submit"]:active,
-.woocommerce #respond input#submit:hover,
-.woocommerce #respond input#submit:focus,
-.woocommerce #respond input#submit:active,
-.woocommerce #respond input#submit.alt:hover,
-.woocommerce #respond input#submit.alt:focus,
-.woocommerce #respond input#submit.alt:active {
-	background-color: #1e90ff;
+.woocommerce a.button span,
+.woocommerce a.button.alt span,
+.woocommerce button.button span,
+.woocommerce button.button.alt span,
+.woocommerce input.button span,
+.woocommerce input.button.alt span,
+.woocommerce input.button[type="submit"] span,
+.woocommerce #respond input#submit span,
+.woocommerce #respond input#submit.alt span {
 	color: #fff;
-	outline: none;
-	text-decoration: none;
-	}
-
-.woocommerce a.button:disabled, .woocommerce a.button:disabled:hover, .woocommerce a.button:disabled:focus,
-.woocommerce a.button.alt:disabled,
-.woocommerce a.button.alt:disabled:hover,
-.woocommerce a.button.alt:disabled:focus,
-.woocommerce button.button:disabled,
-.woocommerce button.button:disabled:hover,
-.woocommerce button.button:disabled:focus,
-.woocommerce button.button.alt:disabled,
-.woocommerce button.button.alt:disabled:hover,
-.woocommerce button.button.alt:disabled:focus,
-.woocommerce input.button:disabled,
-.woocommerce input.button:disabled:hover,
-.woocommerce input.button:disabled:focus,
-.woocommerce input.button.alt:disabled,
-.woocommerce input.button.alt:disabled:hover,
-.woocommerce input.button.alt:disabled:focus,
-.woocommerce input.button[type="submit"]:disabled,
-.woocommerce input.button[type="submit"]:disabled:hover,
-.woocommerce input.button[type="submit"]:disabled:focus,
-.woocommerce #respond input#submit:disabled,
-.woocommerce #respond input#submit:disabled:hover,
-.woocommerce #respond input#submit:disabled:focus,
-.woocommerce #respond input#submit.alt:disabled,
-.woocommerce #respond input#submit.alt:disabled:hover,
-.woocommerce #respond input#submit.alt:disabled:focus {
-	background-color: #8c969f;
-	cursor: not-allowed;
-	opacity: 0.5;
+	font-family: navigo, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: 500;
+	line-height: 45px;
+	line-height: 4.5rem;
+	text-transform: capitalize;
 	}
 
 .woocommerce #reviews #comment {
