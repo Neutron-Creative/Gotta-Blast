@@ -608,6 +608,10 @@ iframe {
 	width: 100%;
 	}
 
+section {
+	padding: 20px 0 !important;
+	}
+
 .title-area {
 	line-height: 1.2944;
 	padding-bottom: 0.8rem;
