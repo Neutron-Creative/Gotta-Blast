@@ -341,6 +341,10 @@
 	transform: scale(1.005) !important;
 	}
 
+.elementor-button.gray {
+	background-color: #8198ae !important;
+	}
+
 .woocommerce a.button,
 .woocommerce a.button.alt,
 .woocommerce button.button,

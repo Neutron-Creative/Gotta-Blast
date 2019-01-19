@@ -432,6 +432,10 @@ dt {
 	transform: scale(1.005) !important;
 	}
 
+.elementor-button.gray {
+	background-color: #8198ae !important;
+	}
+
 ::-webkit-input-placeholder {
 	color: #a8afb6;
 	opacity: 1;
