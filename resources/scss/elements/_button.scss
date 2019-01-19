@@ -39,9 +39,13 @@
 	}
 }
 
-.elementor-button, input[type="submit"] {
-
+.elementor-button {
 	@include button;
+}
+
+input[type="submit"].happyforms-submit {
+	@include button;
+	width: 100% !important;
 }
 
 .gray .elementor-button {
