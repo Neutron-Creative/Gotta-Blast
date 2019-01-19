@@ -611,9 +611,14 @@ body {
 	justify-content: flex-start;
 	}
 
+.site-header .wrap nav {
+	width: 100%;
+	}
+
 .site-header .wrap ul {
 	background: none;
 	margin-left: 20px;
+	width: 100%;
 	}
 
 .site-header .wrap ul li {
@@ -635,6 +640,7 @@ body {
 
 .site-header .wrap ul li:last-of-type a {
 	background-color: #ff4081 !important;
+	background-color: #9013fe !important;
 	border-radius: 5px !important;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24), 0 2px 20px rgba(0, 0, 0, 0.12) !important;
 	color: #fff !important;
@@ -647,6 +653,7 @@ body {
 	line-height: 45px !important;
 	line-height: 4.5rem !important;
 	margin: 0 0 20px 0 !important;
+	margin-bottom: 0 !important;
 	min-width: 100px !important;
 	padding: 0 20px !important;
 	text-decoration: none !important;
