@@ -694,6 +694,11 @@ body {
 	justify-content: flex-start;
 	}
 
+.site-header .wrap button.menu-toggle {
+	margin-left: auto !important;
+	outline: none !important;
+	}
+
 .site-header .wrap nav {
 	width: 100%;
 	}

@@ -21,6 +21,10 @@
 		@include mq(m) {
 			flex-wrap: nowrap;
 		}
+		button.menu-toggle {
+			margin-left: auto !important;
+			outline: none !important;
+		}
 		nav {
 			width: 100%;
 		}
