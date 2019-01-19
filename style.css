@@ -1981,7 +1981,7 @@ section[data-id="f9d9ae1"] img[title="Logos@4x"] {
 		}
 	.site-header ul li {
 		height: 50px !important;
-		margin: 0 !important;
+		margin: 0 auto !important;
 		max-width: 90% !important;
 		width: 100% !important;
 		}
