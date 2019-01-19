@@ -1989,11 +1989,11 @@ section[data-id="f9d9ae1"] img[title="Logos@4x"] {
 		margin: 0 auto !important;
 		text-align: center !important;
 		}
-	.site-header ul li:last-of-type {
+	.site-header ul li#menu-item-21 {
 		height: 70px !important;
 		margin: 0 auto !important;
 		}
-	.site-header ul li:last-of-type a {
+	.site-header ul li#menu-item-21 a {
 		width: 100% !important;
 		}
 	}
