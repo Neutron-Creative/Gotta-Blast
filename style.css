@@ -1972,12 +1972,13 @@ section[data-id="f9d9ae1"] img[title="Logos@4x"] {
 		width: 100% !important;
 		}
 	.site-header .wrap ul li a {
-		text-align: center;
+		margin: 0 auto !important;
+		text-align: center !important;
 		}
 	.site-header .wrap ul li:last-of-type {
 		height: 70px !important;
 		margin: 0 !important;
-		margin-left: auto !important;
+		margin-left: 0 !important;
 		}
 	.site-header .wrap ul li:last-of-type a {
 		width: 100% !important;

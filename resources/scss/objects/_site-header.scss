@@ -37,12 +37,13 @@
 					max-width: 90% !important;
 					height: 50px !important;
 					a {
-						text-align: center;
+						text-align: center !important;
+						margin: 0 auto !important;
 					}
 				}
 				li:last-of-type {
 					margin: 0 !important;
-					margin-left: auto !important;
+					margin-left: 0 !important;
 					height: 70px !important;
 					a {
 						width: 100% !important;
