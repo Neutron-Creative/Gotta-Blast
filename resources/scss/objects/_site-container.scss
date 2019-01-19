@@ -11,3 +11,10 @@
 body {
     background-color: #FCFCFC !important;
 }
+
+@media(max-width: 767px) {
+    .elementor-column-wrap.elementor-element-populated {
+        max-width: 90% !important;
+        margin: 0 auto !important;
+    }
+}
