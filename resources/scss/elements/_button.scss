@@ -39,7 +39,7 @@
 	}
 }
 
-.elementor-button {
+.elementor-button, input[type="submit"] {
 
 	@include button;
 }
