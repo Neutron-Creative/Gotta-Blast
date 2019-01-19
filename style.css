@@ -577,6 +577,10 @@ label span {
 	font-weight: 500 !important;
 	}
 
+input, textarea, select {
+	box-shadow: 0 2px 25px rgba(34, 34, 34, 0.12) !important;
+	}
+
 table {
 	border-collapse: collapse;
 	border-radius: 0;
