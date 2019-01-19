@@ -56,6 +56,9 @@
 }
 
 @media(max-width: 767px) {
+	body {
+		margin-top: 40px !important;
+	}
 	.site-header {
 		position: fixed !important;
 		top: 0 !important;
