@@ -344,6 +344,7 @@
 
 input[type="submit"].happyforms-submit {
 	background-color: #ff4081 !important;
+	background-color: #00bcd4 !important;
 	border-radius: 5px !important;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24), 0 2px 20px rgba(0, 0, 0, 0.12) !important;
 	color: #fff !important;
@@ -353,6 +354,7 @@ input[type="submit"].happyforms-submit {
 	font-size: 1.6rem !important;
 	font-weight: 500 !important;
 	height: 45px !important;
+	height: 50px !important;
 	line-height: 45px !important;
 	line-height: 4.5rem !important;
 	margin: 0 0 20px 0 !important;

@@ -46,6 +46,8 @@
 input[type="submit"].happyforms-submit {
 	@include button;
 	width: 100% !important;
+	height: 50px !important;
+	background-color: #00BCD4 !important;
 }
 
 .gray .elementor-button {
