@@ -697,6 +697,7 @@ body {
 	}
 
 .site-header .wrap button.menu-toggle {
+	border: none !important;
 	margin-left: auto !important;
 	outline: none !important;
 	}
