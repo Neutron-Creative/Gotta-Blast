@@ -407,7 +407,8 @@ button, [type="button"], [type="reset"], [type="submit"], .button, .button.menu-
 	line-height: 45px !important;
 	line-height: 4.5rem !important;
 	margin: 0 0 20px 0 !important;
-	padding: 20px 0 !important;
+	min-width: 100px !important;
+	padding: 0 20px !important;
 	text-decoration: none !important;
 	text-transform: capitalize !important;
 	width: auto !important;
@@ -437,7 +438,8 @@ button span, [type="button"] span, [type="reset"] span, [type="submit"] span, .b
 	line-height: 45px !important;
 	line-height: 4.5rem !important;
 	margin: 0 0 20px 0 !important;
-	padding: 20px 0 !important;
+	min-width: 100px !important;
+	padding: 0 20px !important;
 	text-decoration: none !important;
 	text-transform: capitalize !important;
 	width: auto !important;
