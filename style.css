@@ -436,6 +436,10 @@ dt {
 	background-color: #8198ae !important;
 	}
 
+.purple .elementor-button {
+	background-color: #9013fe !important;
+	}
+
 ::-webkit-input-placeholder {
 	color: #a8afb6;
 	opacity: 1;
