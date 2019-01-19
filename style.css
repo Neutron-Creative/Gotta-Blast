@@ -411,6 +411,7 @@ dt {
 	padding: 0 20px !important;
 	text-decoration: none !important;
 	text-transform: capitalize !important;
+	transition: 0.25s ease-in-out;
 	width: auto !important;
 	}
 
@@ -423,6 +424,12 @@ dt {
 	line-height: 45px !important;
 	line-height: 4.5rem !important;
 	text-transform: capitalize !important;
+	}
+
+.elementor-button:hover {
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.48), 0 2px 20px rgba(0, 0, 0, 0.12) !important;
+	-webkit-transform: scale(1.05) !important;
+	transform: scale(1.05) !important;
 	}
 
 ::-webkit-input-placeholder {
