@@ -305,6 +305,7 @@
 
 .elementor-button {
 	background-color: #ff4081 !important;
+	border-radius: 5px !important;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24), 0 2px 20px rgba(0, 0, 0, 0.12) !important;
 	color: #fff !important;
 	display: inline-block !important;
@@ -359,6 +360,7 @@
 .woocommerce #respond input#submit,
 .woocommerce #respond input#submit.alt {
 	background-color: #ff4081 !important;
+	border-radius: 5px !important;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24), 0 2px 20px rgba(0, 0, 0, 0.12) !important;
 	color: #fff !important;
 	display: inline-block !important;
