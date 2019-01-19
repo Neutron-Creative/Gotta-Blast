@@ -1165,7 +1165,7 @@ section[data-id="f9d9ae1"] {
 	background-size: 195px, 1430px;
 	}
 
-section[data-id="f9d9ae1"] img {
+section[data-id="f9d9ae1"] img[title="Logos@4x"] {
 	max-width: 675px !important;
 	width: 90% !important;
 	}
