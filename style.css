@@ -772,8 +772,8 @@ body {
 	}
 
 .footer-credits {
-	border-top: 1px solid #dfe2e5;
-	padding: 3.2rem 0;
+	border-top: 0;
+	padding: 0;
 	}
 
 .footer-credits p {
