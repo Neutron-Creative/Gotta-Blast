@@ -36,15 +36,17 @@
 			li {
 				padding: 0;
 				margin-left: 20px;
+				line-height: 90px !important;
 				a {
 					color: #8198AE !important;
 					font-size: 16px !important;
 					font-weight: 500 !important;
 					text-decoration: none !important;
+					line-height: 90px !important;
 				}
 			}
 
-			li:last-of-type {
+			li#menu-item-21 {
 				margin-left: auto !important;
 				a {
 					@include button;
