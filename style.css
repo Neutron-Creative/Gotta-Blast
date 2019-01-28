@@ -713,8 +713,8 @@ body {
 	}
 
 .site-header .wrap ul li {
-	line-height: 90px !important;
-	line-height: 9rem !important;
+	line-height: 90px;
+	line-height: 9rem;
 	margin-left: 20px;
 	padding: 0;
 	}
@@ -724,8 +724,8 @@ body {
 	font-size: 16px !important;
 	font-size: 1.6rem !important;
 	font-weight: 500 !important;
-	line-height: 90px !important;
-	line-height: 9rem !important;
+	line-height: 90px;
+	line-height: 9rem;
 	text-decoration: none !important;
 	}
 
