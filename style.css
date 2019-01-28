@@ -745,6 +745,7 @@ body {
 	}
 
 .site-header .wrap ul li ul li a {
+	color: #222;
 	font-size: 14px;
 	font-size: 1.4rem;
 	line-height: 32px;
