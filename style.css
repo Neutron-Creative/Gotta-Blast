@@ -729,6 +729,27 @@ body {
 	text-decoration: none !important;
 	}
 
+.site-header .wrap ul li ul {
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24), 0 2px 15px rgba(0, 0, 0, 0.12) !important;
+	width: 285px;
+	}
+
+.site-header .wrap ul li ul li {
+	font-size: 14px;
+	font-size: 1.4rem;
+	line-height: 32px;
+	line-height: 3.2rem;
+	}
+
+.site-header .wrap ul li ul li a {
+	font-size: 14px;
+	font-size: 1.4rem;
+	line-height: 32px;
+	line-height: 3.2rem;
+	}
+
 .site-header .wrap ul li#menu-item-21 {
 	margin-left: auto !important;
 	}

@@ -44,6 +44,21 @@
 					text-decoration: none !important;
 					line-height: 90px !important;
 				}
+				ul {
+					width: 285px;
+					box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24), 0 2px 15px rgba(0, 0, 0, 0.12) !important;
+					background-color: #FFF;
+					border-radius: 5px;
+					li {
+						line-height: 32px;
+						font-size: 14px;
+						a {
+							line-height: 32px;
+							font-size: 14px;	
+						}
+					}
+
+				}
 			}
 
 			li#menu-item-21 {
