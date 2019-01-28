@@ -747,11 +747,17 @@ body {
 	}
 
 .site-header .wrap ul li ul li a {
-	color: #222;
+	color: #222 !important;
 	font-size: 14px;
 	font-size: 1.4rem;
 	line-height: 32px;
 	line-height: 3.2rem;
+	transition: 0.2s ease-in-out !important;
+	}
+
+.site-header .wrap ul li ul li a:hover {
+	-webkit-transform: translateY(-2px);
+	transform: translateY(-2px);
 	}
 
 .site-header .wrap ul li#menu-item-21 {

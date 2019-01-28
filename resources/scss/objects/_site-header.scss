@@ -58,8 +58,11 @@
 						a {
 							line-height: 32px;
 							font-size: 14px;	
-
-					color: #222;
+							color: #222 !important;
+							transition: .2s ease-in-out !important;
+							&:hover {
+								transform: translateY(-2px);
+							}
 						}
 					}
 
