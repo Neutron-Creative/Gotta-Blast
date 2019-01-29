@@ -129,6 +129,7 @@ input, textarea, select {
 #happyforms-64 .happyforms-country-select.focus {
 	border: solid 1px #FF4081 !important;
 	border-color: #FF4081 !important;
+	border-right: none !important;
 }
 
 #happyforms-64 .happyforms-part input[type=text]:focus, .happyforms-part input[type=email]:focus, input[type=email]:focus, .happyforms-part input[type=tel]:focus, .happyforms-part input[type=number]:focus, .happyforms-part textarea:focus {
