@@ -1228,8 +1228,16 @@ body.single-post .hero-section h1.entry-title {
 	text-align: left !important;
 	}
 
+body.single-post .hero-section .wrap {
+	max-width: 650px !important;
+	}
+
 body.single-post img.attachment-hero {
 	display: none !important;
+	}
+
+body.single-post .site-inner .wrap {
+	max-width: 650px !important;
 	}
 
 .breadcrumb {

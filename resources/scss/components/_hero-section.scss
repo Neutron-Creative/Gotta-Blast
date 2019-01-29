@@ -51,8 +51,16 @@ body.single-post {
 		h1.entry-title {
 			text-align: left !important;
 		}
+		.wrap {
+			max-width: 650px !important;
+		}
 	}
+	
 	img.attachment-hero {
 		display: none !important;
+	}
+
+	.site-inner .wrap {
+		max-width: 650px !important;
 	}
 }
