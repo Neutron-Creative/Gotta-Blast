@@ -75,6 +75,9 @@
 					@include button;
 					margin-bottom: 0 !important;
 					background-color: #9013FE !important;
+					@media(max-width: 767px) {
+						width: 100% !important;
+					}
 				}
 			}
 		}
