@@ -126,12 +126,12 @@ input, textarea, select {
 	line-height: 1.5 !important;
 }
 
-#happyforms-64 .happyforms-country-select:focus {
+#happyforms-64 .happyforms-country-select.focus {
 	border: solid 1px #FF4081 !important;
 	border-color: #FF4081 !important;
 }
 
-#happyforms-64 .happyforms-part input[type=text]:focus, .happyforms-part input[type=email]:focus, .happyforms-part input[type=tel]:focus, .happyforms-part input[type=number]:focus, .happyforms-part textarea:focus {
+#happyforms-64 .happyforms-part input[type=text]:focus, .happyforms-part input[type=email]:focus, input[type=email]:focus, .happyforms-part input[type=tel]:focus, .happyforms-part input[type=number]:focus, .happyforms-part textarea:focus {
 	border: solid 1px #FF4081 !important;
 	border-color: #FF4081 !important;
 }
