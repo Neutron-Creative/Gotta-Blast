@@ -1216,6 +1216,16 @@ section {
 	margin-top: 1.6rem;
 	}
 
+body.single-post .hero-section {
+	border-bottom: none !important;
+	display: flex !important;
+	padding: 0 !important;
+	}
+
+body.single-post .hero-section h1.entry-title {
+	text-align: left !important;
+	}
+
 .breadcrumb {
 	margin: 0 0 1.6rem;
 	}

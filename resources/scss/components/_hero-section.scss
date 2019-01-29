@@ -39,3 +39,15 @@
 
 	@include hero-section;
 }
+
+
+body.single-post {
+	.hero-section {
+		display: flex !important;
+		padding: 0 !important;
+		border-bottom: none !important;
+		h1.entry-title {
+			text-align: left !important;
+		}
+	}
+}
