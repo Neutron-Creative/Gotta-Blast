@@ -650,6 +650,11 @@ input, textarea, select {
 	border-color: #ff4081 !important;
 	}
 
+#happyforms-64_email_3:focus {
+	border: solid 1px #ff4081 !important;
+	border-color: #ff4081 !important;
+	}
+
 table {
 	border-collapse: collapse;
 	border-radius: 0;
