@@ -1221,10 +1221,10 @@ body.single-post .hero-section {
 	border-bottom: none !important;
 	display: flex !important;
 	padding: 0 !important;
+	padding-top: 40px !important;
 	}
 
 body.single-post .hero-section h1.entry-title {
-	padding-top: 40px !important;
 	text-align: left !important;
 	}
 
