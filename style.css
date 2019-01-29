@@ -1116,7 +1116,7 @@ section {
 	background-position: center;
 	background-size: cover;
 	border-bottom: 1px solid #dfe2e5;
-	display: flex;
+	display: none !important;
 	overflow: hidden;
 	padding: 4.8rem 0;
 	position: relative;
@@ -1328,7 +1328,7 @@ section {
 	background-position: center;
 	background-size: cover;
 	border-bottom: 1px solid #dfe2e5;
-	display: flex;
+	display: none !important;
 	overflow: hidden;
 	padding: 4.8rem 0;
 	position: relative;
