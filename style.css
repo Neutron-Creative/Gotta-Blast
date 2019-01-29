@@ -831,8 +831,6 @@ p a {
 
 p a:hover {
 	color: #ee3070 !important;
-	-webkit-transform: translateY(-2px) !important;
-	transform: translateY(-2px) !important;
 	}
 
 .site-footer {
