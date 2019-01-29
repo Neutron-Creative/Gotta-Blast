@@ -46,8 +46,12 @@ body.single-post {
 		display: flex !important;
 		padding: 0 !important;
 		border-bottom: none !important;
+		background: none !important;
 		h1.entry-title {
 			text-align: left !important;
 		}
+	}
+	img.attachment-hero {
+		display: none !important;
 	}
 }

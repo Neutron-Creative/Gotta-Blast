@@ -1217,6 +1217,7 @@ section {
 	}
 
 body.single-post .hero-section {
+	background: none !important;
 	border-bottom: none !important;
 	display: flex !important;
 	padding: 0 !important;
@@ -1224,6 +1225,10 @@ body.single-post .hero-section {
 
 body.single-post .hero-section h1.entry-title {
 	text-align: left !important;
+	}
+
+body.single-post img.attachment-hero {
+	display: none !important;
 	}
 
 .breadcrumb {
