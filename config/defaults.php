@@ -232,6 +232,13 @@ $core_hero_section = [
 
 $core_hooks = [
 	Hooks::ADD    => [
+		// Footer
+		[
+			Hooks::TAG      => 'wp_footer',
+			Hooks::CALLBACK => function() {
+				echo '<div class="nc-footer">Copyright ©' . date("Y") . ' Neutron Creative Inc. - All rights reserved</div>'
+			}
+		],
 		[
 			Hooks::TAG      => 'template_include',
 			Hooks::CALLBACK => function ( $template ) {

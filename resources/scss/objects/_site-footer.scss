@@ -7,6 +7,7 @@
 ////
 
 .site-footer {
+	display: none;
 	margin-top: auto;
 	border-top: 0;
 	background: #222;
@@ -32,4 +33,13 @@
 
 .post-edit-link {
 	display: none !important;
+}
+
+.nc-footer {
+	display: flex;
+	background-color: #222;
+	color: #FFF;
+	padding: 20px;
+	box-sizing: border-box;
+	font-size: 12px;
 }

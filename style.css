@@ -841,6 +841,7 @@ p a:hover {
 	background: #222;
 	border-top: 0;
 	color: #8198ae !important;
+	display: none;
 	margin-top: auto;
 	padding: 40px 0;
 	}
@@ -860,6 +861,16 @@ p a:hover {
 
 .post-edit-link {
 	display: none !important;
+	}
+
+.nc-footer {
+	background-color: #222;
+	box-sizing: border-box;
+	color: #fff;
+	display: flex;
+	font-size: 12px;
+	font-size: 1.2rem;
+	padding: 20px;
 	}
 
 .wrap {
