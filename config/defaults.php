@@ -236,7 +236,7 @@ $core_hooks = [
 		[
 			Hooks::TAG      => 'wp_footer',
 			Hooks::CALLBACK => function() {
-				echo '<div class="nc-footer">Copyright ©' . date("Y") . ' Neutron Creative Inc. - All rights reserved</div>'
+				echo '<div class="nc-footer">Copyright ©' . date("Y") . ' Neutron Creative Inc. - All rights reserved</div>';
 			}
 		],
 		[
