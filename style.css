@@ -1224,6 +1224,7 @@ body.single-post .hero-section {
 	}
 
 body.single-post .hero-section h1.entry-title {
+	padding-top: 40px !important;
 	text-align: left !important;
 	}
 
