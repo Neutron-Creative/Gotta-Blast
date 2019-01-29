@@ -129,10 +129,11 @@ a {
 }
 
 p a {
+	text-decoration: none !important;
 	color: #FF4081 !important;
 	transition: .2s ease-in-out !important;
 	&:hover {
 		color: #EE3070 !important;
-		transform: scale(1.025) !important;
+		transform: translateY(-2px) !important;
 	}
 }

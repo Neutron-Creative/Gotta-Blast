@@ -825,13 +825,14 @@ a {
 
 p a {
 	color: #ff4081 !important;
+	text-decoration: none !important;
 	transition: 0.2s ease-in-out !important;
 	}
 
 p a:hover {
 	color: #ee3070 !important;
-	-webkit-transform: scale(1.025) !important;
-	transform: scale(1.025) !important;
+	-webkit-transform: translateY(-2px) !important;
+	transform: translateY(-2px) !important;
 	}
 
 .site-footer {
