@@ -640,6 +640,14 @@ input, textarea, select {
 	line-height: 1.5 !important;
 	}
 
+.happyforms-country-select:focus {
+	border: solid 1px #ff4081 !important;
+	}
+
+.happyforms-part input[type=text]:focus, .happyforms-part input[type=email]:focus, .happyforms-part input[type=tel]:focus, .happyforms-part input[type=number]:focus, .happyforms-part textarea:focus {
+	border: solid 1px #ff4081 !important;
+	}
+
 table {
 	border-collapse: collapse;
 	border-radius: 0;
