@@ -2026,6 +2026,9 @@ section[data-id="f9d9ae1"] img[title="Logos@4x"] {
 		margin: 0 auto !important;
 		max-width: 90% !important;
 		}
+	.site-header .wrap ul li ul li a {
+		width: 100% !important;
+		}
 	.site-header .wrap ul li#menu-item-21 a {
 		width: 100% !important;
 		}
