@@ -833,6 +833,10 @@ p a:hover {
 	color: #ee3070 !important;
 	}
 
+.happyforms-part__select-wrap {
+	max-height: 43px !important;
+	}
+
 .site-footer {
 	background: #222;
 	border-top: 0;
