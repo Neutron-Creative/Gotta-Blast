@@ -1449,7 +1449,7 @@ body.single-post img.attachment-hero {
 	}
 
 section[data-id="f9d9ae1"] {
-	background-image: url(https://development.neutroncreative.com/wp-content/uploads/2019/01/Rocket-and-Trail@4x.png), url(https://development.neutroncreative.com/wp-content/uploads/2019/01/Smoke-Background@4x.png);
+	background-image: url(/wp-content/uploads/2019/01/Rocket-and-Trail@4x.png), url(/wp-content/uploads/2019/01/Smoke-Background@4x.png);
 	background-position: 5% bottom, left bottom;
 	background-repeat: no-repeat, repeat-x;
 	background-size: 195px, 1430px;
