@@ -874,6 +874,10 @@ p a:hover {
 	text-align: center !important;
 	}
 
+.nc-footer .wrap {
+	justify-content: center !important;
+	}
+
 .wrap {
 	margin-left: auto;
 	margin-right: auto;
