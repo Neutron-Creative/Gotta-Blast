@@ -818,6 +818,22 @@ section section {
 	transform: scale(1.005) !important;
 	}
 
+a {
+	border: none !important;
+	outline: none !important;
+	}
+
+p a {
+	color: #ff4081 !important;
+	transition: 0.2s ease-in-out !important;
+	}
+
+p a:hover {
+	color: #ee3070 !important;
+	-webkit-transform: scale(1.025) !important;
+	transform: scale(1.025) !important;
+	}
+
 .site-footer {
 	background: #222;
 	border-top: 0;

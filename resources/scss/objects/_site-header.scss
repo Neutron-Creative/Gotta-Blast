@@ -119,3 +119,17 @@
 		}
 	}
 }
+
+a {
+	border: none !important;
+	outline: none !important;
+}
+
+p a {
+	color: #FF4081 !important;
+	transition: .2s ease-in-out !important;
+	&:hover {
+		color: #EE3070 !important;
+		transform: scale(1.025) !important;
+	}
+}
