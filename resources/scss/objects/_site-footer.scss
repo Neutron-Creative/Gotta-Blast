@@ -7,7 +7,7 @@
 ////
 
 .site-footer {
-	display: none;
+	display: none !important;
 	margin-top: auto;
 	border-top: 0;
 	background: #222;
@@ -38,8 +38,8 @@
 .nc-footer {
 	display: flex;
 	background-color: #222;
-	color: #FFF;
-	padding: 20px;
+	color: #8198AE !important;
+	padding: 20px 0;
 	box-sizing: border-box;
 	font-size: 12px;
 }

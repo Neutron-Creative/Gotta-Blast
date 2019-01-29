@@ -841,7 +841,7 @@ p a:hover {
 	background: #222;
 	border-top: 0;
 	color: #8198ae !important;
-	display: none;
+	display: none !important;
 	margin-top: auto;
 	padding: 40px 0;
 	}
@@ -866,11 +866,11 @@ p a:hover {
 .nc-footer {
 	background-color: #222;
 	box-sizing: border-box;
-	color: #fff;
+	color: #8198ae !important;
 	display: flex;
 	font-size: 12px;
 	font-size: 1.2rem;
-	padding: 20px;
+	padding: 20px 0;
 	}
 
 .wrap {
