@@ -679,6 +679,10 @@ body {
 	background-color: #fcfcfc !important;
 	}
 
+section section {
+	padding: 0 !important;
+	}
+
 .site-header {
 	background-color: none;
 	border-bottom: 0;
